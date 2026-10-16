@@ -5,7 +5,7 @@ University of Pennsylvania · CIS 5650 · Project 4
 
 A WebGPU project comparing naive forward, Forward+, and clustered deferred rendering under different light counts and cluster resolutions.
 
-**Live Demo:** TODO — add the deployed GitHub Pages URL.
+**Live Demo:** https://guoren0830.github.io/Project4-WebGPU-Forward-Plus-and-Clustered-Deferred/
 
 ![Rendering showcase](images/showcase.gif)
 
